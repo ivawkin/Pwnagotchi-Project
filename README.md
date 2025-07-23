@@ -36,7 +36,7 @@ This is my custom Pwnagotchi setup based on the Raspberry Pi Zero 2 WH, featurin
 
     
 
-![Pwnagotchi Top](./assets//IJ_06698.jpg)
+![Pwnagotchi Top](./assets/IJ_06698.jpg)
 
 ---
 
