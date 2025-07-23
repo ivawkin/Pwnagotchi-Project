@@ -55,9 +55,10 @@ It’s a great little companion for:
 ## 🔧 How I Built It (Step-by-Step)
 
 ### 1. Flash the SD Card  
+
 I grabbed the latest Pwnagotchi image from the official repo and flashed it using Imager
 
-Download : <img width="546" height="17" alt="image" src="https://github.com/user-attachments/assets/a721918b-3805-4635-9d35-780f464212ef" />
+<img width="546" height="17" alt="image" src="https://github.com/user-attachments/assets/a721918b-3805-4635-9d35-780f464212ef" />
 
 <img width="347" height="17" alt="image" src="https://github.com/user-attachments/assets/8446f1c4-8104-4197-aea5-713f2b3aef67" />
 
@@ -124,6 +125,8 @@ Always follow your local laws and responsible disclosure policies.
 
 ##################
 
+
+HUGE SHOUTOUT TO : 
 
 
 Pwnagotchi Project
