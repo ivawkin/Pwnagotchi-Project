@@ -32,7 +32,7 @@ This is my custom Pwnagotchi setup based on the Raspberry Pi Zero 2 WH, featurin
 - Designed specifically for this combo  
 - Sleek, minimal look with enough port clearance  
 
-![Pwnagotchi Side](./assets/IJ_069701.jpg)
+![Pwnagotchi Side](./assets/IJ_06701.jpg)
 
     
 
