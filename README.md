@@ -91,14 +91,13 @@ What i would suggest is making seperate config.bak ( backup) so we dont loose or
 like they did go for me, when installing Plugins and finding the ones that work takes some time and succces/error procedures :D 
 
 ## 2. Install Display
-
 The Waveshare V4 HAT+ connects directly to the Pi header (no wiring needed). I used standoffs to stabilize it inside the case.
+
 ## 3. Power It Up
-
 The PiSugar S fits directly on the GPIO underside and powers the whole rig beautifully. It even gives a clean shutdown button if you enable it.
-## 4. Case It
 
-I designed (or downloaded and tweaked) a custom 3D-printed case for this exact combo. Used white PLA for this build. Compact, tough, and photogenic 😎
+## 4. Case It (Case found here : https://makerworld.com/en/models/219507-pwnagotchi-wavesharev4-pisugar2-case#profileId-238242 )
+I designed ( ofcourse i did not :D ) (downloaded) a custom 3D-printed case for this exact combo. Used white PLA for this build. Compact, tough, and photogenic 😎
 
 ## 5. Configure Plugins
 
