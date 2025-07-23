@@ -32,6 +32,12 @@ This is my custom Pwnagotchi setup based on the Raspberry Pi Zero 2 WH, featurin
 - Designed specifically for this combo  
 - Sleek, minimal look with enough port clearance  
 
+![Pwnagotchi Side](./assets/IJ_069701.jpg)
+
+    
+
+![Pwnagotchi Top](./assets//IJ_06698.jpg)
+
 ---
 
 ## 🧑‍💻 What is Pwnagotchi?
@@ -119,6 +125,8 @@ Already included in my build:
 
     ✅ Bluetooth tethering for remote access and syncing
 
+
+![Pwnagotchi](./assets/IJ_06701.jpg)
 
 ##################
 
