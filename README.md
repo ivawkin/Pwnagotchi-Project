@@ -1,7 +1,7 @@
 # Pwnagotchi-Project
 🧠 My Custom Pwnagotchi Build (Zero 2 WH Edition)
 
-![Pwnagotchi Front](./IJ_06696.jpg)
+![Pwnagotchi Front](./assets/IJ_06696.jpg)
 
 Hey there! 👋  
 This is my custom Pwnagotchi setup based on the Raspberry Pi Zero 2 WH, featuring a crisp Waveshare e-ink display and powered by a PiSugar S UPS. I built this mostly for educational WiFi research, CTF learning, and honestly, just because it looks awesome on a bench 😄
