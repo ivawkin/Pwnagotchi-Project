@@ -69,31 +69,17 @@ Using nmcli (easier, NetworkManager users)
 If your Linux host uses NetworkManager (most modern distros do):
 
 
-nmcli connection add type ethernet ifname usb0 con-name pwnagotchi ipv4.method shared
-nmcli connection up pwnagotchi
 <img width="655" height="96" alt="image" src="https://github.com/user-attachments/assets/e8b79987-e67d-4ae4-b28f-c71920f3b17a" />
 
-on pwnagotchi : 
-sudo dhclient usb0
 <img width="185" height="37" alt="image" src="https://github.com/user-attachments/assets/1bad1f75-0786-4dde-b52f-b5726fca6ddf" />
 
 On linux : 
 
-• Open a terminal session
-• type ifconfig and write down the device name of your wireless/ethernet adapter. The Pwnagotchi usually gets a name that starts with en or usb0.
-• wget https://raw.githubusercontent.com/jayofelony/pwnagotchi/master/scripts/linux_connection_share.sh
-• sudo chmod +x linux_connection_share.sh (this will make it executable)
-• Edit the script as shown in the image above:
-• USB_IFACE will be the USB device name (notice the starting -.)
-• UPSTREAM_IFACE will be your internet adapter name (notice the starting -)
-• Leave the rest as is
-• Run the script: sudo ./linux_connection_share.sh 
 <img width="762" height="210" alt="image" src="https://github.com/user-attachments/assets/4de5f6cf-7dca-4dda-8ceb-a2b487f24522" />
 
 
 ## Plugin that Should Work : 
 
-https://github.com/itsdarklikehell/pwnagotchi-plugins
 <img width="400" height="60" alt="image" src="https://github.com/user-attachments/assets/84b0fe6f-5fc7-4be5-ab9e-ce6c18809879" />
 
 ## Configurations of Main config.toml
