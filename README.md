@@ -27,7 +27,7 @@ This is my custom Pwnagotchi setup based on the Raspberry Pi Zero 2 WH, featurin
 - Comes pre-flashed with my own tweaked Pwnagotchi image  
 - Fast, reliable storage for all those juicy `.pcap`s  
 
-### ✅ Custom 3D Printed Case  
+### ✅ Custom 3D Printed Case  ( Case found here : https://makerworld.com/en/models/219507-pwnagotchi-wavesharev4-pisugar2-case#profileId-238242 ) 
 - Compact and durable  
 - Designed specifically for this combo  
 - Sleek, minimal look with enough port clearance  
