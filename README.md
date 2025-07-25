@@ -112,7 +112,7 @@ Already included in my build:
     ✅ Bluetooth tethering for remote access and syncing
 
 
-![Pwnagotchi](./assets/IJ_06701.jpg)
+![Pwnagotchi](./assets/IJ_06697.jpg)
 
 ##################
 
